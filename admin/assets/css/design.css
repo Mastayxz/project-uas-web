@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+span .carousel-control-prev-icon {
+    color: black;
+}
+
+li .nav-link  {
+    color: white;
+}
+.carousel-items active {
+    width: 100%;
+    height: 500px ;
+}
+
+.card-style img:hover{
+   transform: scale(1.1);
+}
+
+.card-style img {
+    height: 320px;
+}
+
+.detail img{
+    height: 320px;
+}
+
+.navbar-brand a{
+    font-size: large;
+}
